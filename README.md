@@ -1,1 +1,1 @@
-# tobey
+# Statistical Inference method
